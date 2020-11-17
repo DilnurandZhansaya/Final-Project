@@ -6,4 +6,4 @@ Database for online ad platform that brings people together to buy, sell, or exc
 
 
 
-![ERD](erd.jpg)
+![ERD](erd.png)
